@@ -74,6 +74,3 @@
   transition-duration: 0.5s;
   transition-timing-function: cubic-bezier(0.42, 0.97, 0.52, 1.49);
 }
-
-/* <row-start> / <column-start> / <row-end> / <column-end> */
-/* <row-start> / <column-start> / span <rows> [height] / span <columns> [width] */
